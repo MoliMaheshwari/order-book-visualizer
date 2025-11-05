@@ -1,7 +1,10 @@
 # Real-Time Order Book Visualizer
 
+🔗 **Live Demo:** [https://order-book-visualizer-gilt.vercel.app/](https://order-book-visualizer-gilt.vercel.app/)
+
 A high-performance, real-time stock order book visualizer built using **Next.js**, **TypeScript**, and **Zustand**.  
 It connects to the **Binance WebSocket API** to stream live BTC/USDT market data and displays an interactive, responsive order book with recent trades.
+
 
 ---
 
